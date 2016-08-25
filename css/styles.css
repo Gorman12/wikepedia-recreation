@@ -1,0 +1,14 @@
+h2 {
+  background-color: green;
+  border: 2px solid black;
+
+}
+
+h1 {
+  font-family: sans-serif;
+
+}
+
+.float {
+  float: right;
+}
